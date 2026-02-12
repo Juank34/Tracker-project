@@ -1,0 +1,2 @@
+../Core/Src/ULTRASONICO.c:5:6:ultrasonic_init	16	static
+../Core/Src/ULTRASONICO.c:16:10:ultrasonic_measure_distance	32	static
